@@ -4,7 +4,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Screenshot
 
-[![C-Users-OLGA-Documents-web-development-four-card-feature-section-master-index-html.png](https://i.postimg.cc/90NnJsRM/C-Users-OLGA-Documents-web-development-four-card-feature-section-master-index-html.png)](https://postimg.cc/SYCdKTGF)
+[![C-Users-OLGA-Documents-web-development-four-card-feature-section-master-index-html-1.png](https://i.postimg.cc/ht5yqFNx/C-Users-OLGA-Documents-web-development-four-card-feature-section-master-index-html-1.png)](https://postimg.cc/rD5CSHVF)
 
 ### Links
 
