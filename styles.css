@@ -34,13 +34,13 @@ main {
 
 .heading {
     font-weight: 200;
-    font-size: 2em;
+    font-size: 2.3em;
     color: hsl(234, 12%, 34%);
 }
 
 .heading-main {
     font-weight: 600;
-    font-size: 2em;
+    font-size: 2.3em;
     color: hsl(234, 12%, 34%);
     margin-bottom: 15px;
 }
